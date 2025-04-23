@@ -1,6 +1,6 @@
 module github.com/techschool/simplebank
 
-go 1.23.5
+go 1.23
 
 require (
 	github.com/jackc/pgx v3.6.2+incompatible
